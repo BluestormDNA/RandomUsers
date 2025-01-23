@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomUsers</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading…</string>
+    <string name="there_was_an_error_loading_data">There was an error loading data</string>
+    <string name="retry">Retry</string>
+</resources>
