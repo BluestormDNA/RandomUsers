@@ -20,9 +20,11 @@ pagingCompose = "3.3.5"
 room = "2.6.1"
 mokkery = "2.6.1"
 kover = "0.8.1"
+turbineVersion = "1.2.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+app-turbine = { module = "app.cash.turbine:turbine", version.ref = "turbineVersion" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
