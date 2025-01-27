@@ -97,7 +97,7 @@ dependencies {
 
     // Coil
     implementation(libs.coil.compose)
-    implementation(libs.coil.network.okhttp)
+    implementation(libs.coil.network.ktor3)
 
     // Ktor
     implementation(libs.ktor.client.core)
